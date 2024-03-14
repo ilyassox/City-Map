@@ -35,7 +35,4 @@ Make sure you have the following Python libraries installed:
 pip install geopandas matplotlib
 ```
 
-## Clone the repository:
-```
-git clone https://github.com/yourusername/geospatial-project.git
-```
+
